@@ -41,7 +41,7 @@ Recife não possui hoje um panorama local, detalhado e atualizado sobre mercado 
 
 ## Objetivo da solução e público beneficiado
 
-**Objetivo:** criar o Observatório de Emprego e Renda do Recife, uma plataforma digital pública e interativa que reúne, organiza e apresenta dados sobre emprego, renda, setor econômico, gênero, idade e bairro — oferecendo uma base de evidências sólida para decisões e políticas públicas mais direcionadas.
+**Objetivo:** criar o Observatório de Emprego e Renda do Recife, uma plataforma digital pública e interativa que reúne, organiza e apresenta dados sobre emprego, renda, setor econômico, gênero, idade e bairro, oferecendo uma base de evidências sólida para decisões e políticas públicas mais direcionadas.
 
 **Público beneficiado:**
 - Gestores públicos municipais e regionais;
